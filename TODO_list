@@ -13,6 +13,6 @@
 - create point meter, add 10 when player is on top of food square [/]
 - speed up every 10 points [/]
 
-[Shit Trail]
+[Poison Trail]
 - Follow procedure for Food Trail but with different Tag on the Struct []
-- End game when player is on top of shit square []
+- End game when player is on top of poison square []
