@@ -14,5 +14,5 @@
 - speed up every 10 points [/]
 
 [Poison Trail]
-- Follow procedure for Food Trail but with different Tag on the Struct []
-- End game when player is on top of poison square []
+- Follow procedure for Food Trail but with different Tag on the Struct [/]
+- End game when player is on top of poison square [/]
