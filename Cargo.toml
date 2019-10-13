@@ -1,0 +1,9 @@
+[package]
+name = "gpr_rpc"
+version = "0.1.0"
+authors = ["ganid"]
+edition = "2018"
+
+[dependencies]
+ggez = "0.4.4"
+rand = "0.6.5"

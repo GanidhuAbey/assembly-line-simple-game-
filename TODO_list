@@ -1,0 +1,18 @@
+- Create Asset Upload Center [/]
+- Create Movement Function [/]
+- Render Square to screen [/]
+- Move Square up on pressing W [/]
+- Move Square down on pressing S [/]
+- Make sure square is stuck switching between trails [/]
+
+[Food Trail]
+- create struct [/]
+- spawn squares on an random x line [/]
+- advance square through x axis [/]
+- check if square is on top of player square [/]
+- create point meter, add 10 when player is on top of food square [/]
+- speed up every 10 points [/]
+
+[Shit Trail]
+- Follow procedure for Food Trail but with different Tag on the Struct []
+- End game when player is on top of shit square []
